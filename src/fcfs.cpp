@@ -1,4 +1,4 @@
-#include"fcfs.h"
+#include"fcfs.hpp"
 #include <vector>
 #include <iostream>
 #include <fstream>

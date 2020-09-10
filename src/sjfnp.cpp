@@ -1,4 +1,4 @@
-#include "sjfnp.h"
+#include "sjfnp.hpp"
 #include <vector>
 #include <iostream>
 #include <fstream>

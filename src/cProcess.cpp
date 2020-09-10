@@ -1,4 +1,4 @@
-#include "cProcess.h"
+#include "cProcess.hpp"
 #include <iostream>
 #include <cstdlib>
 cProcess::cProcess(int minaTu, int aTu, int minbTu, int bTu)

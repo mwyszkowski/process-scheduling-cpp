@@ -6,11 +6,11 @@
 #include <fstream>
 #include <algorithm>
 #include <stdlib.h>
-#include "cProcess.h"
-#include "fcfs.h"
-#include "rr.h"
-#include "sjfnp.h"
-#include "sjfp.h"
+#include "cProcess.hpp"
+#include "fcfs.hpp"
+#include "rr.hpp"
+#include "sjfnp.hpp"
+#include "sjfp.hpp"
 using namespace std;
 int cProcess::numer=1; // zmienna statyczna uzywana do numeracji procesow w klasie
 
